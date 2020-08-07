@@ -1,0 +1,23 @@
+{
+  "name": "todo-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -p $PORT"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.10.2",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.56",
+    "immutable": "^4.0.0-rc.12",
+    "next": "9.4.4",
+    "pg": "^8.2.1",
+    "prop-types": "^15.7.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "swr": "^0.2.3",
+    "yup": "^0.29.1"
+  }
+}
